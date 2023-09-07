@@ -1,0 +1,9 @@
+a={"set",4,2,5}
+print(type(a))
+print(a)
+print(a)
+b=a
+c={"set","set",1,1,2,3}
+print(c)
+c.pop()
+print(c)

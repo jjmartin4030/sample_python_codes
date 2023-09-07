@@ -1,0 +1,13 @@
+import cal
+a=int(input("Enter the number"))
+b=int(input("Enter the number"))
+s=cal.add(a,b)
+d=cal.sub(a,b)
+m=cal.multi(a,b)
+div=cal.div(a,b)
+mo=cal.mod(a,b)
+print(s)
+print(d)
+print(m)
+print(div)
+print(mo)
